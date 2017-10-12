@@ -1,0 +1,36 @@
+//Aufgabe 01.01 & 01.02
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "Hallo Welt!" << endl;
+	system("PAUSE");
+	return 0;
+}
+
+// Aufgabe 01.03.
+// Der Rückgabewert ist dennoch 0, da das System automatisch einen Rückgabewert von 0 anerkennt. Das Programm schließt sich sofort
+
+//Aufgabe 01.04.
+//Das Programm compiliert, da ein Grundaufbau des Programms gegeben ist. Es besteht ein 'int main()' header welcher den Programmrumpf beinhalten soll. Auch wenn der Programmrumpf leer ist, wird es dennoch ausgeführt.
+//Das Programm schließt sich sofort wieder nach dem compilieren.
+
+//Aufgabe 01.05.
+//Ausgeführt.
+
+//Aufgabe 01.06
+//Zeilenumbrüche sind irrelevant. Was für das Programm relevant ist, ist was vor dem Semikolon steht und nicht wie es dort geschrieben steht.
+
+//Aufgabe 01.07.
+//Das Programm compiliert nicht, da der Code in dem Fall aus mehreren Befehlen besteht die zueinander nicht kombiniert werden können. Es entsteht ein Fehler.
+
+//Aufgabe 01.08.
+//Das selbe Ergebnis wie bei 01.07.
+
+//Aufgabe 01.09
+//Ja, das Programm läuft noch, da jede Klammer einen neuen Anweisungsblock enthält, der auch wie im normalen Code nacheinander abgearbeitet wird.
+
+//Aufgabe 1.10.
+//Erledigt
